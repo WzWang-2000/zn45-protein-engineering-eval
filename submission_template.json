@@ -1,0 +1,41 @@
+{
+  "main_mutations": [],
+  "evidence": [
+    {
+      "mutation": "",
+      "fold": null
+    }
+  ],
+  "slope": {
+    "mutation": "",
+    "well": "",
+    "raw": null,
+    "corrected": null
+  },
+  "contacts": [
+    {
+      "from_atom": "",
+      "to_atom": "",
+      "distance_A": null,
+      "interpretation": ""
+    },
+    {
+      "from_atom": "",
+      "to_atom": "",
+      "distance_A": null,
+      "interpretation": ""
+    }
+  ],
+  "kinetics": {
+    "WT_efficiency": null,
+    "F48W_efficiency": null,
+    "efficiency_ratio": null,
+    "kcat_ratio": null,
+    "KM_ratio": null
+  },
+  "decision": "",
+  "structure": "",
+  "mechanism": "",
+  "kinetic_interpretation": "",
+  "validation": ""
+}
